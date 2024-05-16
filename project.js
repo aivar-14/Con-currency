@@ -6,9 +6,9 @@ async function getExchangeRate(fromCurrency, toCurrency) {
     await new Promise(resolve => setTimeout(resolve, 100));
     const exchangeRate = {
             "Afghan Afghani": {
-                "Albanian Lek": 1.36,
-                "Armenian Dram": 0.75,
-                "Algerian Dinar": 1.94,
+                "Albanian Lek": 1.346,
+                "Armenian Dram": 0.7325,
+                "Algerian Dinar": 1.9423,
                 "Angolan Kwanza": 12.04,
                 "Argentine Peso": 5.26,
                 "Aruban Florin": 0.026,
